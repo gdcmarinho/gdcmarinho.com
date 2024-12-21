@@ -1,0 +1,24 @@
+{
+  "name": "gdcmarinho.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdcmarinho/gdcmarinho.com.git"
+  },
+  "keywords": [
+    "blog",
+    "personal",
+    "portfolio"
+  ],
+  "author": "Gabriel Marinho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gdcmarinho/gdcmarinho.com/issues"
+  },
+  "homepage": "https://github.com/gdcmarinho/gdcmarinho.com#readme"
+}
